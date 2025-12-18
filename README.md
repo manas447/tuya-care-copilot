@@ -73,7 +73,7 @@ Devices → Tuya Cloud → Backend API → Rules + AI Agent → Diagnosis → Da
 ---
 
 ## Demo Output
-![Demo Output](screenshots/demo-output.png)
+![Demo Output](screenshots/demo-output.jpeg)
 
 ---
 
